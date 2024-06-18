@@ -9,5 +9,10 @@ cmd:
 ## Dependencies
 To allow the bot to communicate with Steam, Discord etc. We require the usage of dependencies and libaries that are mostly open-source. None of which require any form of payment to be made and are completely free to use, within license.
 
+For ease, a requirements.txt file is located in this Repo that can be ran from the Terminal with PIP.
+```
+  pip install -r requirements.txt 
+```
+
 ## License
 Any usage of this bot, or source-code from this repository or any dependencies repository will be considered to be in agreement to the relevant license(s) in play, for notice, we use GNU General Public License v3.0.
